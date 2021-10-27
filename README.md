@@ -12,12 +12,11 @@ Be aware though, to have the highest compatibility you need to have all the keyw
 
 1. Install Visual Studio Code from Ubuntu software.
 
-2. Open the terminal, update the repos and install any software upgrades (your password will be asked):
+2. Open the terminal, update the repos and install any software upgrades, your password will be asked:
 
         sudo apt update && sudo apt upgrade -y
 
-3. Install GNU-COBOL, the current version 3 and NOT version 4 (called also BETA) - in case you would get the choice
-   (your password will be asked):
+3. Install GNU-COBOL, the current version 3 and NOT version 4 (called also BETA), your password may be asked:
 
         sudo apt install gnucobol -y
 
