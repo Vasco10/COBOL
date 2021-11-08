@@ -33,8 +33,8 @@ Be aware though, to have the highest compatibility you need to have all the rese
 ![reboot](https://user-images.githubusercontent.com/29803730/130208470-196613a1-9329-4cf1-b4a0-b13b41f191aa.png)
 
 
-# Now you are ready to start your course with Vasco Gonçalves.
-# Please contact him on https://digitaltran.eu/#contact to see his schedule.
+### Now you are ready to start your course with Vasco Gonçalves.
+### Please contact him on https://digitaltran.eu/#contact to see his schedule.
 
 Thank you.
 
