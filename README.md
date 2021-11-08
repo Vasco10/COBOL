@@ -6,7 +6,7 @@ Apart from a few reserved words, the GNU-COBOL works well with older compilers.
 Be aware though, to have the highest compatibility you need to have all the reserved words, paragraphs, ... in UPPERCASE.
 
 # Installing COBOL on Ubuntu 20.04+
-## COBOL IDE through VS Code
+## COBOL IDE (VS Code)
 0. Either you install Ubuntu 20.04 LTS or greater on a physical machine or as a virtual machine.
 
 1. Install Visual Studio Code from Ubuntu software.
@@ -19,9 +19,7 @@ Be aware though, to have the highest compatibility you need to have all the rese
 
         sudo apt install gnucobol -y
 
-
-
-## Install from Extensions on VS Code
+## Install Extensions on VS Code
 1. COBOL Themes (Bitlang)
 
 2. COBOL (Bitlang)
