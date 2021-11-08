@@ -1,6 +1,8 @@
 # COBOL
 According to Simon Sobisch (gnu.org, 2017), GnuCOBOL covers substantially COBOL 85, 2002, 2014 standards and X/Open COBOL and supports many extensions from IBM COBOL, MicroFocus COBOL, ACUCOBOL-GT and others.
-Installing COBOL on Ubuntu 20.04+
+
+
+# Installing COBOL on Ubuntu 20.04+
 
 Apart from a few keywords, the GNU-COBOL works well with older compilers.
 
