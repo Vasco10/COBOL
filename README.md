@@ -9,7 +9,7 @@ Apart from a few keywords, the GNU-COBOL works well with older compilers.
 Be aware though, to have the highest compatibility you need to have all the keywords, paragraphs, ... in UPPERCASE.
 
 
-# COBOL IDE through VS Code
+## COBOL IDE through VS Code
 0. Either you install Ubuntu 20.04 LTS or greater on a physical machine or as a virtual machine.
 
 1. Install Visual Studio Code from Ubuntu software.
@@ -24,7 +24,7 @@ Be aware though, to have the highest compatibility you need to have all the keyw
 
 
 
-# Install from Extensions on VS Code
+## Install from Extensions on VS Code
 1. COBOL Themes (Bitlang)
 
 2. COBOL (Bitlang)
